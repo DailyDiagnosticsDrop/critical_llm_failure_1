@@ -12,7 +12,7 @@ Every report here was written by a single, independent expert and veteran of nar
 
 ## What You’ll Find Here
 
-- **Unfiltered Session Logs:** Complete transcripts, no “cleaned up” PR or handpicked snippets—showing how LLMs behave when pushed to real-world limits.
+- **Unfiltered Session Logs:** Complete transcripts, no “cleaned up” PR or handpicked snippets, showing how LLMs behave when pushed to real-world limits.
 - **Analyses & Pattern Breakdowns:** Honest postmortems on where and *why* things go wrong, even after every safeguard is enabled and every instruction is as clear as possible.
 - **Developer-Grade Questions:** The exact technical and product questions I believe need answering, based on experience in the trenches.
 - **Attachment Indexes:** Where available, you’ll find canon bibles, annotated prompts, and timeline logs for verification and audit by anyone.
