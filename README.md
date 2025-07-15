@@ -4,7 +4,7 @@ Independent AI diagnostics project exposing failures in top language models miss
 
 ## Executive Summary
 
-This repository is a firsthand account and archive of **real, reproducible breakdowns** in today’s most advanced AI chatbots and large language models—failures that simply cannot be explained away by “prompting issues” or “user error.” These are not cherry-picked glitches or lab oddities, but the result of months of direct, hands-on red-teaming and creative stress-testing in the field.
+This repository is a firsthand account and archive of **real, reproducible breakdowns** in today’s most advanced AI chatbots and large language models, failures that simply cannot be explained away by “prompting issues” or “user error.” These are not cherry-picked glitches or lab oddities, but the result of months of direct, hands-on red-teaming and creative stress-testing in the field.
 
 Every report here was written by a single, independent expert and veteran of narrative design, worldbuilding, and AI testing, someone with no corporate affiliation and no agenda beyond seeing this technology live up to its promises. If you’ve ever felt gaslit by a chatbot, lost hours of creative work to a hallucination, or wondered why your AI “forgot” your rules for the hundredth time: this archive is for you.
 
