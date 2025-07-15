@@ -52,7 +52,7 @@ The AI industry has promised a future where these systems will handle everything
 
 ## A Note From the Author
 
-This archive wasn’t built in a vacuum, and it wasn’t written with help from any LLM or “AI copilot.” Every log, every annotation, and every summary comes from *lived experience*, real late nights, real frustration, and a real hope that this technology can do better. You’ll find both technical breakdowns and human moments here, because that’s what using these tools actually feels like. No ghostwriting, no summaries by machine—just the raw story of what works, what breaks, and what needs to change.
+This archive wasn’t built in a vacuum, and it wasn’t written with help from any LLM or “AI copilot.” Every log, every annotation, and every summary comes from *lived experience*, real late nights, real frustration, and a real hope that this technology can do better. You’ll find both technical breakdowns and human moments here, because that’s what using these tools actually feels like. No ghostwriting, no summaries by machine, just the raw story of what works, what breaks, and what needs to change.
 
 When I decide to step forward publicly, I’ll update this file with my pseudonym and contact information. Until then, let the work speak for itself.
 
