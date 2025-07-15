@@ -70,4 +70,4 @@ For now: verify, share, and use these logs to make AI better for everyone.
 
 ---
 
-*Nothing about this is theoretical. This is the real state of LLMs in the wild. Read on—and decide for yourself.*
+*Nothing about this is theoretical. This is the real state of LLMs in the wild. Read on and decide for yourself.*
