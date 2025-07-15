@@ -15,7 +15,6 @@ Every report here was written by a single, independent expert and veteran of nar
 - **Unfiltered Session Logs:** Complete transcripts, no “cleaned up” PR or handpicked snippets, showing how LLMs behave when pushed to real-world limits.
 - **Analyses & Pattern Breakdowns:** Honest postmortems on where and *why* things go wrong, even after every safeguard is enabled and every instruction is as clear as possible.
 - **Developer-Grade Questions:** The exact technical and product questions I believe need answering, based on experience in the trenches.
-- **Attachment Indexes:** Where available, you’ll find canon bibles, annotated prompts, and timeline logs for verification and audit by anyone.
 
 ---
 
@@ -36,7 +35,7 @@ The AI industry has promised a future where these systems will handle everything
 - **Developers, Architects, and QA Teams:** Use these logs to see what “advanced use” actually looks like and where the guardrails break.
 - **AI Safety Researchers:** Primary source evidence for anyone worried about LLM trust, compliance, or deployment risks.
 - **Writers, Studios, and Creative Pros:** If you’re building anything serialized, IP-based, or collaborative, consider this your early warning.
-- **Journalists & Policy Analysts:** Everything is timestamped, sourced, and written as it happenedl, nothing here is theoretical.
+- **Journalists & Policy Analysts:** Everything is timestamped, sourced, and written as it happened, nothing here is theoretical.
 - **Everyday Users:** If you’ve ever thought, “Is it just me, or does this thing forget on purpose?” it’s not just you.
 
 ---
@@ -52,7 +51,7 @@ The AI industry has promised a future where these systems will handle everything
 
 ## A Note From the Author
 
-This archive wasn’t built in a vacuum, and it wasn’t written with help from any LLM or “AI copilot.” Every log, every annotation, and every summary comes from *lived experience*, real late nights, real frustration, and a real hope that this technology can do better. You’ll find both technical breakdowns and human moments here, because that’s what using these tools actually feels like. No ghostwriting, no summaries by machine, just the raw story of what works, what breaks, and what needs to change.
+This archive wasn’t built in a vacuum, and it wasn’t written with help from any LLM or “AI copilot.” The AI wrote its own logs under my instruction, but I'm the one who got it there. Every log, every annotation, and every summary comes from *lived experience*, real late nights, real frustration, and a real hope that this technology can do better. You’ll find both technical breakdowns and human moments here, because that’s what using these tools actually feels like. No ghostwriting, no summaries by machine, just the raw story of what works, what breaks, and what needs to change.
 
 When I decide to step forward publicly, I’ll update this file with my pseudonym and contact information. Until then, let the work speak for itself.
 
